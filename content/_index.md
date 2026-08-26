@@ -65,18 +65,10 @@ sections:
       # 说明：日期已通过自定义模板（layouts/partials/blocks/experience.html）隐藏，页面不显示时间。
       # 保留 date_start/date_end 字段仅为兼容；如需恢复日期显示，请还原默认模板并填入真实日期。
       items:
-        - title: Executive Recruiter & Consulting
-          company: Different companies
-          company_url: ''
-          company_logo: executive-recruiter.jpeg
-          location: Shanghai, China
-          date_start: '2024-01-01'
-          date_end: ''
-          description: ''
         - title: Personal Aide (Human Resources & Store Manager)
           company: E-commerce platform
           company_url: ''
-          company_logo: ''
+          company_logo: executive-recruiter.jpeg
           location: Shanghai, China
           date_start: '2023-01-01'
           date_end: '2023-12-31'
@@ -84,7 +76,7 @@ sections:
         - title: Personal Aide (Human Resources & Finance)
           company: Robot Company (SenseTime ecosystem company)
           company_url: ''
-          company_logo: ''
+          company_logo: robot-company.jpeg
           location: Shanghai, China
           date_start: '2022-01-01'
           date_end: '2022-12-31'
@@ -92,7 +84,7 @@ sections:
         - title: Performance Evaluation & Human Resources
           company: Automated literary translation firm
           company_url: ''
-          company_logo: ''
+          company_logo: translation-firm.jpeg
           location: Shanghai, China
           date_start: '2021-01-01'
           date_end: '2021-12-31'
@@ -100,11 +92,19 @@ sections:
         - title: Project Application & Human Resources
           company: Biomedical Gene Company (a company founded by a professor from ShanghaiTech University)
           company_url: ''
-          company_logo: ''
+          company_logo: biomedical-gene.jpeg
           location: Shanghai, China
           date_start: '2020-01-01'
           date_end: '2020-12-31'
           description: Worked on the General Management.
+        - title: Executive Recruiter & Consulting
+          company: Different companies
+          company_url: ''
+          company_logo: executive-consulting.jpeg
+          location: Shanghai, China
+          date_start: '2024-01-01'
+          date_end: ''
+          description: ''
 
     design:
       columns: '2'
@@ -242,7 +242,7 @@ sections:
     id: gallery
     content:
       title: Gallery
-      subtitle: Photos, videos & audio
+      subtitle: Photos, Videos & Audio
       text: |-
         {{< gallery album="demo" >}}
 

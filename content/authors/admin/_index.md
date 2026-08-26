@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Investor
+role: Master
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universitat de Barcelona
+  - name: University of Economic and Business Management of Barcelona
     url: https://www.ub.edu/
 
 # Short bio (displayed in user profile at end of posts)

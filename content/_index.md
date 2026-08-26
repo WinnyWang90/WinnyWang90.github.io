@@ -63,54 +63,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Researcher
-          company: Tencent Hunyuan
+        - title: Executive Recruiter & Consulting
+          company: Different companies
           company_url: ''
-          company_logo: org-tencent
-          location: Shenzhen, China
-          date_start: '2025-07-01'
+          company_logo: ''
+          location: Shanghai, China
+          date_start: ''
           date_end: ''
-          description: Worked on LLM and Agent Research.
-        - title: Research Intern
-          company: Tencent Hunyuan
+          description: ''
+        - title: Personal Aide (Human Resources & Store Manager)
+          company: E-commerce platform
           company_url: ''
-          company_logo: org-tencent
-          location: Shenzhen, China
-          date_start: '2025-02-01'
-          date_end: '2025-07-01'
-          description: Worked on Reasoning Model Research.
-        - title: Research Intern
-          company: ByteDance Research
+          company_logo: ''
+          location: Shanghai, China
+          date_start: ''
+          date_end: ''
+          description: Worked on Marketing Department.
+        - title: Personal Aide (Human Resources & Finance)
+          company: Robot Company (SenseTime ecosystem company)
           company_url: ''
-          company_logo: org-bytedance
-          location: Beijing, China
-          date_start: '2022-01-01'
-          date_end: '2025-02-01'
-          description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?hl=zh-CN&user=Vt1j3kEAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Yuchen Zhang](https://zhangyuc.github.io/), working on LLM Research and Information Extraction Research.
-        - title: Visiting Scholar
-          company: Peking University
+          company_logo: ''
+          location: Shanghai, China
+          date_start: ''
+          date_end: ''
+          description: ''
+        - title: Performance Evaluation & Human Resources
+          company: Automated literary translation firm
           company_url: ''
-          company_logo: org-pku
-          location: Beijing, China
-          date_start: '2021-07-01'
-          date_end: '2025-07-01'
-          description: Advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/), working on LLM Research, Information Extraction Research and AI4Science Research.
-        - title: Intern
-          company: Beijing Institute of Big Data Research
+          company_logo: ''
+          location: Shanghai, China
+          date_start: ''
+          date_end: ''
+          description: Worked on the General Management.
+        - title: Project Application & Human Resources
+          company: Biomedical Gene Company (a company founded by a professor from ShanghaiTech University)
           company_url: ''
-          company_logo: org-bibdr
-          location: Beijing, China
-          date_start: '2019-01-01'
-          date_end: '2021-12-01'
-          description: Advised by Dr. Yi Zhang, working on research and projects of Big Data in Economics.
-        - title: Visiting Scholar
-          company: Peking University
-          company_url: ''
-          company_logo: org-pku
-          location: Beijing, China
-          date_start: '2019-01-01'
-          date_end: '2020-01-01'
-          description: Advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/) and [Prof. Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), working on Economic Data Science Research.
+          company_logo: ''
+          location: Shanghai, China
+          date_start: ''
+          date_end: ''
+          description: Worked on the General Management.
 
     design:
       columns: '2'

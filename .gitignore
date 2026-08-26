@@ -1,6 +1,10 @@
 # IDEs
 .idea/
 
+# BaiduYun partial downloads (large temp files)
+*.baiduyun.p.downloading
+*.downloading
+
 # Hugo
 resources/
 public/

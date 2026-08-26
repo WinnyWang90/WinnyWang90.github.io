@@ -8,7 +8,7 @@ type: landing
 gallery_item:
   - album: demo
     image: 5ef24fb42127966f1b95de5f95d89877.png
-    caption: Gallery Image
+    caption: 上音沐光合唱团
   - album: demo
     image: "image (2).png"
     caption: |-
@@ -18,7 +18,7 @@ gallery_item:
     caption: 瑜伽200TT
   - album: demo
     image: "image (4).png"
-    caption: Gallery Image 4
+    caption: 
   - album: demo
     image: "image (7).jpeg"
     caption: "美丽中国 | 让所有中国孩子，无论出身，都能获得同等优质教育"
@@ -263,17 +263,25 @@ sections:
       title: Gallery
       subtitle: Photos, Videos & Audio
       text: |-
+
+        ## Photos
+
         {{< gallery album="demo" >}}
 
         ## Videos
 
-        <video controls width="100%">
-          <source src="uploads/videos/3b0b67a069744670aa45b6c60c7cb4bd.mp4" type="video/mp4">
-        </video>
-
-        <video controls width="100%">
-          <source src="uploads/videos/f19b0e2554304ad7ad1f9ad25d253684.mp4" type="video/mp4">
-        </video>
+        <div class="row">
+          <div class="col-12 col-md-6">
+            <video controls width="100%">
+              <source src="uploads/videos/3b0b67a069744670aa45b6c60c7cb4bd.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="col-12 col-md-6">
+            <video controls width="100%">
+              <source src="uploads/videos/f19b0e2554304ad7ad1f9ad25d253684.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
 
         ## Audio
 

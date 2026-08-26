@@ -17,7 +17,7 @@ author_notes:
   - Equal contribution
 publication: In *The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*
 summary: "We introduce PaSa, an advanced Paper Search agent powered by large language models. PaSa can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant references, to ultimately obtain comprehensive and accurate results for complex scholarly queries."
-url_dataset: "https://huggingface.co/datasets/CarlanLark/pasa-dataset"
+url_dataset: "https://huggingface.co/datasets/WinnyWang90/pasa-dataset"
 url_project: "https://pasa-agent.ai/"
 publication_short: ""
 url_source: ""

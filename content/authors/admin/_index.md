@@ -93,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:your-email@example.com"
+    link: "mailto:3427275166@qq.com"
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/your-username

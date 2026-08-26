@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Guanhua Huang
+title: Wan Wang
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Wan Wang
 
 # Full name (for SEO)
-first_name: Guanhua
-last_name: Huang
+first_name: Wan
+last_name: Wang
 
 # Status emoji
 status:
@@ -17,32 +17,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D.
+role: Investor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Science and Technology of China
-    url: https://en.ustc.edu.cn/
+  - name: Universitat de Barcelona
+    url: https://www.ub.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Wan Wang is an investor with hands-on experience across human resources, business development, legal affairs and investment & financing.
 
 # Interests to show in About widget
 interests:
-  - Reasoning LLMs
-  - LLM Agents
-  - NLP Applications
-  - Scholarly Document Processing
+  - Investment & Financing
+  - Business Development
+  - Legal Affairs
+  - Human Resources
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Data Science
-      institution: School of Artificial Intelligence and Data Science, University of Science and Technology of China
-      year: 2019-2025
-    - course: B.S. in Mathematics
-      institution: School of the Gifted Young, University of Science and Technology of China
-      year: 2015-2019
+    - course: Master’s Degree in Economic and Business Management
+      institution: Universitat de Barcelona
+      year: ''
 
 # # Skills
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -91,19 +88,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:guanhuahuang@mail.ustc.edu.cn"
-  # - icon: twitter
+    link: "mailto:your-email@example.com"
+  # - icon: linkedin
   #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=SEgFVw0AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/CarlanLark
+  #   link: https://www.linkedin.com/in/your-username
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/your-username
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -118,4 +109,4 @@ social:
 highlight_name: true
 ---
 
-**Guanhua Huang** (黄冠华) is a researcher at [Tencent](https://www.tencent.com/en-us/), where he was selected for the [Project UP](https://join.qq.com/qingyun.html) Program. Previously, he earned his Ph.D. in Data Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), where he was advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/) and [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Before that, he received a Bachelor’s degree in Mathematics from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). He completed several internships at [BIBDR](http://www.bibdr.org/), [ByteDance](https://www.bytedance.com/en/), and [Tencent](https://www.tencent.com/en-us/), where he contributed to fascinating works including [PaSa](https://github.com/bytedance/pasa/), [Hy3 Preview](https://hy.tencent.com/research/hy3-preview?langVersion=en), [Hy3](https://hy.tencent.com/research/hy3?langVersion=zh).
+**Wan Wang** is an investor. She holds a Master’s Degree in Economic and Business Management from [Universitat de Barcelona](https://www.ub.edu/), advised by Rector Joan Guàrdia Olmos and directors Francisco Pérez Lozano and Jose Carlos Soto Gómez. Prior to that, she gained multi-industry working experience in biotech founded by [SUSTech](https://www.sustech.edu.cn/) professors, machine-translation enterprise, [SenseTime](https://www.sensetime.com/)-ecosystem robotics company and e-commerce firm. She has delivered solid performance across human resources, business development, legal affairs and investment & financing.

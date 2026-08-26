@@ -62,13 +62,15 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # 说明：日期已通过自定义模板（layouts/partials/blocks/experience.html）隐藏，页面不显示时间。
+      # 保留 date_start/date_end 字段仅为兼容；如需恢复日期显示，请还原默认模板并填入真实日期。
       items:
         - title: Executive Recruiter & Consulting
           company: Different companies
           company_url: ''
           company_logo: ''
           location: Shanghai, China
-          date_start: ''
+          date_start: '2024-01-01'
           date_end: ''
           description: ''
         - title: Personal Aide (Human Resources & Store Manager)
@@ -76,32 +78,32 @@ sections:
           company_url: ''
           company_logo: ''
           location: Shanghai, China
-          date_start: ''
-          date_end: ''
+          date_start: '2023-01-01'
+          date_end: '2023-12-31'
           description: Worked on Marketing Department.
         - title: Personal Aide (Human Resources & Finance)
           company: Robot Company (SenseTime ecosystem company)
           company_url: ''
           company_logo: ''
           location: Shanghai, China
-          date_start: ''
-          date_end: ''
+          date_start: '2022-01-01'
+          date_end: '2022-12-31'
           description: ''
         - title: Performance Evaluation & Human Resources
           company: Automated literary translation firm
           company_url: ''
           company_logo: ''
           location: Shanghai, China
-          date_start: ''
-          date_end: ''
+          date_start: '2021-01-01'
+          date_end: '2021-12-31'
           description: Worked on the General Management.
         - title: Project Application & Human Resources
           company: Biomedical Gene Company (a company founded by a professor from ShanghaiTech University)
           company_url: ''
           company_logo: ''
           location: Shanghai, China
-          date_start: ''
-          date_end: ''
+          date_start: '2020-01-01'
+          date_end: '2020-12-31'
           description: Worked on the General Management.
 
     design:
@@ -210,32 +212,49 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+  # - block: collection
+  #   id: publications
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     columns: '2'
+  #     view: citation
+  - block: markdown
+    id: gallery
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    id: publications
-    content:
-      title: Recent Publications
+      title: Gallery
+      subtitle: Photos, videos & audio
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+        {{< gallery album="demo" >}}
+
+        ## Videos
+
+        {{< video src="uploads/videos/sample.mp4" controls="yes" >}}
+
+        ## Audio
+
+        {{< audio src="uploads/audio/sample.mp3" >}}
     design:
-      columns: '2'
-      view: citation
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:

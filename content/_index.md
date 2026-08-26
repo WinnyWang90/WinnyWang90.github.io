@@ -249,7 +249,11 @@ sections:
         ## Videos
 
         <video controls width="100%">
-          <source src="uploads/videos/sample.mp4" type="video/mp4">
+          <source src="uploads/videos/3b0b67a069744670aa45b6c60c7cb4bd.mp4" type="video/mp4">
+        </video>
+
+        <video controls width="100%">
+          <source src="uploads/videos/f19b0e2554304ad7ad1f9ad25d253684.mp4" type="video/mp4">
         </video>
 
         ## Audio

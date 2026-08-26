@@ -1,0 +1,15 @@
+/* Gallery: card-style caption overlaid at the bottom of each image.
+   The default gallery grid / image display (grid, .Fit thumbnails, lightbox) is kept unchanged. */
+
+.gallery-item .gallery-caption {
+  position: relative;
+  z-index: 2; /* above the image link (a has z-index:1) */
+  width: 100%;
+  padding: 0.4rem 0.6rem;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  text-align: center;
+  box-sizing: border-box;
+}

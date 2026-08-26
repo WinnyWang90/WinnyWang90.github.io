@@ -7,20 +7,20 @@ type: landing
 # Gallery image captions (displayed in the Gallery section)
 gallery_item:
   - album: demo
-    image: 5ef24fb42127966f1b95de5f95d89877.png
+    image: photo-1.png
     caption: 上音沐光合唱团
   - album: demo
-    image: "image (2).png"
+    image: muguang-choir.png
     caption: |-
       上音沐光合唱团 | 我们一起，让沐光的声音，被更多人记住
   - album: demo
-    image: "image (3).png"
+    image: yoga-200tt.png
     caption: 瑜伽200TT
   - album: demo
-    image: "image (4).png"
+    image: photo-4.png
     caption: 
   - album: demo
-    image: "image (7).jpeg"
+    image: beautiful-china.jpeg
     caption: "美丽中国 | 让所有中国孩子，无论出身，都能获得同等优质教育"
 
 sections:

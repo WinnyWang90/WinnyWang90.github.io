@@ -68,7 +68,7 @@ sections:
         - title: Executive Recruiter & Consulting
           company: Different companies
           company_url: ''
-          company_logo: ''
+          company_logo: executive-recruiter.jpeg
           location: Shanghai, China
           date_start: '2024-01-01'
           date_end: ''

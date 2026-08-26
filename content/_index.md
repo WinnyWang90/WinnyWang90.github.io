@@ -248,11 +248,15 @@ sections:
 
         ## Videos
 
-        {{< video src="uploads/videos/sample.mp4" controls="yes" >}}
+        <video controls width="100%">
+          <source src="uploads/videos/sample.mp4" type="video/mp4">
+        </video>
 
         ## Audio
 
-        {{< audio src="uploads/audio/sample.mp3" >}}
+        <audio controls>
+          <source src="uploads/audio/sample.mp3" type="audio/mpeg">
+        </audio>
     design:
       columns: '1'
   # - block: collection

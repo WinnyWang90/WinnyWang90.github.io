@@ -21,11 +21,12 @@ role: Master
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Economic and Business Management of Barcelona
+  - name: University of Economic and Business Management of Barcelona
     url: https://www.ub.edu/
+  - name: Guilin, Guangxi, China
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wan Wang is an investor with hands-on experience across human resources, business development, legal affairs and investment & financing.
+bio: Wan Wang is an investor from Guilin, Guangxi, China, with hands-on experience across human resources, business development, legal affairs and investment & financing.
 
 # Interests to show in About widget
 interests:

@@ -29,16 +29,21 @@ bio: Wan Wang is an investor with hands-on experience across human resources, bu
 
 # Interests to show in About widget
 interests:
-  - Investment & Financing
-  - Business Development
-  - Legal Affairs
+  - Financial LLMs
+  - Legal LLMs
   - Human Resources
+  - Business development
+  - Legal affairs
+  - Investment
 
 # Education to show in About widget
 education:
   courses:
-    - course: Master’s Degree in Economic and Business Management
+    - course: Master in Economic and Business Management
       institution: Universitat de Barcelona
+      year: ''
+    - course: B.S. in Public Administration
+      institution: School of the Medical, University of MMU
       year: ''
 
 # # Skills
@@ -92,12 +97,9 @@ social:
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/your-username
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/your-username
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/WinnyWang90
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

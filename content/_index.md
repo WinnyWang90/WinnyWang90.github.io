@@ -4,6 +4,25 @@ title: ''
 date: 2022-10-24
 type: landing
 
+# Gallery image captions (displayed in the Gallery section)
+gallery_item:
+  - album: demo
+    image: 5ef24fb42127966f1b95de5f95d89877.png
+    caption: Gallery Image
+  - album: demo
+    image: "image (2).png"
+    caption: |-
+      上音沐光合唱团 | 我们一起，让沐光的声音，被更多人记住
+  - album: demo
+    image: "image (3).png"
+    caption: 瑜伽200TT
+  - album: demo
+    image: "image (4).png"
+    caption: Gallery Image 4
+  - album: demo
+    image: "image (7).jpeg"
+    caption: "美丽中国 | 让所有中国孩子，无论出身，都能获得同等优质教育"
+
 sections:
   # - block: hero
   #   demo: true # Only display this section in the Hugo Blox Builder demo site
@@ -258,8 +277,10 @@ sections:
 
         ## Audio
 
+        竹笛十级 | 竹笛音乐：帕米尔的春天
+
         <audio controls>
-          <source src="uploads/audio/sample.mp3" type="audio/mpeg">
+          <source src="uploads/audio/6.29 笛子 MMM CD.mp3" type="audio/mpeg">
         </audio>
     design:
       columns: '1'

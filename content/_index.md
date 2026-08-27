@@ -101,7 +101,7 @@ sections:
           location: Shanghai, China
           date_start: '2022-01-01'
           date_end: '2022-12-31'
-          description: ''
+          description: Worked on the General Management.
         - title: Performance Evaluation & Human Resources
           company: Automated literary translation firm
           company_url: ''

@@ -8,20 +8,19 @@ type: landing
 gallery_item:
   - album: demo
     image: photo-1.png
-    caption: 上音沐光合唱团
+    caption: Muguang Choir, Shanghai Opera House
   - album: demo
     image: muguang-choir.png
-    caption: |-
-      上音沐光合唱团 | 我们一起，让沐光的声音，被更多人记住
+    caption: "Muguang Choir, Shanghai Opera House | Together, let the voices of Muguang reach and be remembered by more people."
   - album: demo
     image: yoga-200tt.png
-    caption: 瑜伽200TT
+    caption: Yoga 200‑TT Certified
   - album: demo
     image: photo-4.png
     caption: 
   - album: demo
     image: beautiful-china.jpeg
-    caption: "美丽中国 | 让所有中国孩子，无论出身，都能获得同等优质教育"
+    caption: "Teach For China | Every child in China, regardless of background, deserves equal access to quality education."
 
 sections:
   # - block: hero
@@ -285,7 +284,7 @@ sections:
 
         ## Audio
 
-        竹笛十级 | 竹笛音乐：帕米尔的春天
+        Chinese Bamboo Flute, Grade 10
 
         <audio controls>
           <source src="uploads/audio/6.29 笛子 MMM CD.mp3" type="audio/mpeg">

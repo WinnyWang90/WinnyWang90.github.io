@@ -21,7 +21,7 @@ role: Master
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Economic and Business Management of Barcelona · Guilin, Guangxi, China
+  - name: University of Economic and Business Management of Barcelona
     url: https://www.ub.edu/
   - name: Guilin, Guangxi, China
 

@@ -19,6 +19,9 @@ gallery_item:
     image: photo-4.png
     caption: 
   - album: demo
+    image: teach-for-china.jpg
+    caption: Teach For China
+  - album: demo
     image: beautiful-china.jpeg
     caption: "Teach For China | Every child in China, regardless of background, deserves equal access to quality education."
 

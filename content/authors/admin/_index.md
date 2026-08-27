@@ -95,6 +95,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:3427275166@qq.com"
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/Winnywang31/
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/your-username

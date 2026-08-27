@@ -7,7 +7,7 @@ type: landing
 # Gallery image captions (displayed in the Gallery section)
 gallery_item:
   - album: demo
-    image: photo-1.png
+    image: muguang-choir-1.png
     caption: Muguang Choir, Shanghai Opera House
   - album: demo
     image: muguang-choir.png

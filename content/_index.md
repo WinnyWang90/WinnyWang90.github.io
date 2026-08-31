@@ -283,6 +283,11 @@ sections:
               <source src="uploads/videos/f19b0e2554304ad7ad1f9ad25d253684.mp4" type="video/mp4">
             </video>
           </div>
+          <div class="col-12 col-md-6">
+            <video controls width="100%">
+              <source src="uploads/videos/e76039e1de9e45e3b7d3af5865407191.mp4" type="video/mp4">
+            </video>
+          </div>
         </div>
 
         ## Audio

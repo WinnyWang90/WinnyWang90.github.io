@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Investor
+role: 'Deputy Secretary-General, WAIAC Conference<br>Regional Chair, World AI Industry Ecosystem Alliance'
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ organizations:
   - name: Guilin, Guangxi, China
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wan Wang is an investor from Guilin, Guangxi, China, with hands-on experience across human resources, business development, legal affairs and investment & financing.
+bio: Wan Wang is Deputy Secretary-General of the WAIAC Conference and Regional Chair of the World AI Industry Ecosystem Alliance, based in Guilin, Guangxi, China, with hands-on experience across human resources, business development, legal affairs and investment & financing.
 
 # Interests to show in About widget
 interests:
@@ -115,4 +115,4 @@ social:
 highlight_name: true
 ---
 
-**Wan Wang** is an investor. She holds a Master’s Degree in Economic and Business Management from [Universitat de Barcelona](https://www.ub.edu/), advised by Rector Joan Guàrdia Olmos and directors Francisco Pérez Lozano and Jose Carlos Soto Gómez. Prior to that, she gained multi-industry working experience in biotech founded by [ShanghaiTech](https://www.shanghaitech.edu.cn/) professors, machine-translation enterprise, [SenseTime](https://www.sensetime.com/)-ecosystem robotics company and e-commerce firm. She has delivered solid performance across human resources, business development, legal affairs and investment & financing.
+**Wan Wang** is Deputy Secretary-General of the WAIAC Conference and Regional Chair of the World AI Industry Ecosystem Alliance. She holds a Master’s Degree in Economic and Business Management from [Universitat de Barcelona](https://www.ub.edu/), advised by Rector Joan Guàrdia Olmos and directors Francisco Pérez Lozano and Jose Carlos Soto Gómez. Prior to that, she gained multi-industry working experience in biotech founded by [ShanghaiTech](https://www.shanghaitech.edu.cn/) professors, machine-translation enterprise, [SenseTime](https://www.sensetime.com/)-ecosystem robotics company and e-commerce firm. She has delivered solid performance across human resources, business development, legal affairs and investment & financing.

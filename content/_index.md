@@ -272,19 +272,24 @@ sections:
 
         ## Videos
 
-        <div class="row">
+        <div class="row g-3">
           <div class="col-12 col-md-6">
-            <video controls width="100%">
+            <video controls style="width:100%; aspect-ratio:16/9; object-fit:contain; background:#000; display:block;">
+              <source src="uploads/videos/0e515fce47f747979e56fb06e8ff558e.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="col-12 col-md-6">
+            <video controls style="width:100%; aspect-ratio:16/9; object-fit:contain; background:#000; display:block;">
               <source src="uploads/videos/3b0b67a069744670aa45b6c60c7cb4bd.mp4" type="video/mp4">
             </video>
           </div>
           <div class="col-12 col-md-6">
-            <video controls width="100%">
+            <video controls style="width:100%; aspect-ratio:16/9; object-fit:contain; background:#000; display:block;">
               <source src="uploads/videos/f19b0e2554304ad7ad1f9ad25d253684.mp4" type="video/mp4">
             </video>
           </div>
           <div class="col-12 col-md-6">
-            <video controls width="100%">
+            <video controls style="width:100%; aspect-ratio:16/9; object-fit:contain; background:#000; display:block;">
               <source src="uploads/videos/e76039e1de9e45e3b7d3af5865407191.mp4" type="video/mp4">
             </video>
           </div>

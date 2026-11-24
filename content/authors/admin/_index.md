@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 'Deputy Secretary-General, WAIAC Conference<br>Regional Chair, World AI Industry Ecosystem Alliance'
+role: 'Investor'
 
 # Organizations/Affiliations to show in About widget
 organizations:
